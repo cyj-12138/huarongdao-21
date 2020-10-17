@@ -1,7 +1,7 @@
 徽章：python </br>
 运行环境：window10 </br>
 编译方法：    </br>
-AI使用方法：
+AI使用方法： </br>
 1.事前准备：先将实例的36张字母图片用里边的切割函数cutimage()切割后按照"0_0.jpg"-"35_9.jpg"命名保存在本地。修改AI算法里的文件路径为自己硬盘的路径 </br>
 2.调用接口测试里的getchallengelist()获取今日赛题的uuid，将其复制 </br>
 3.接下来需要修改postAnser函数里的token和teamid           </br>
